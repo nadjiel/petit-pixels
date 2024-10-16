@@ -1,4 +1,7 @@
-# Low Res Project Settings in Godot 4.3
+<h1 align="center">Petit Pixels</h1>
+<p align="center">Low Res Project Settings in Godot 4.3</p>
+<p align="center">🟥🟩🟦</p>
+
 This project is a small prototype made for exploring some options that
 Godot provides for setting up games with retro pixel art aesthetics.
 
